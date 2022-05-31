@@ -11,7 +11,7 @@ public class SortArry {
         // sorting the array
         Arrays.sort(array);
 
-        // printing sorted array using toString 
+        // printing sorted array using toString
         System.out.println(Arrays.toString(array));
 
     }
